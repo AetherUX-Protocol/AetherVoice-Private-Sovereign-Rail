@@ -1,5 +1,7 @@
 # AetherVoice: Private AI Trust Rail (Umbra + QVAC) 🛡️⛓️
 
+Demo Video: https://youtu.be/zDcotNa0dBE
+
 **"Verify with Intelligence. Settle with Silence."**
 
 AetherVoice is a context-aware, privacy-preserving trust infrastructure for high-risk B2B transactions. It solves the strategic vulnerability of public ledgers by merging **Tether QVAC’s local-first AI** with **Umbra’s confidential settlement layer**.
